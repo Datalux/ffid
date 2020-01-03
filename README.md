@@ -1,5 +1,5 @@
 # ffid
-Find Facebook ID: a shell command to find users's Facebook ID.
+Find Facebook ID: a shell command to find user's Facebook ID.
 
  # Installation
 Create or edit the RC File of your shell (`~/.bashrc` if you use Bash or `~/.zshrc` if you use ZSH) (_for MAC users edit `~/.bash_profile` file instead `~/.bashrc`._ file) and append the following code:
